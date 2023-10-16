@@ -16,8 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
+[Live Demo Link](https://aristides1000.github.io/learn-web-development-basics-16oct23/)
 
 ## Getting Started
 
